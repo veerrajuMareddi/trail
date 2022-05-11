@@ -10,6 +10,8 @@ public class AppMain {
 
 	public static void main(String[] args) {
 		logger.info(".......Hibernate Crud Operations Example.......\n");
+		
+		// pull is done
 
 		logger.info("\n=======CREATE RECORDS=======\n");
 		DbOperations.createRecord();
