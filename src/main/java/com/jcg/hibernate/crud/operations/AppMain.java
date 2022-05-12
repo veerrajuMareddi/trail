@@ -12,6 +12,7 @@ public class AppMain {
 		logger.info(".......Hibernate Crud Operations Example.......\n");
 		
 		// pull is done
+		//merging is getting ready
 
 		logger.info("\n=======CREATE RECORDS=======\n");
 		DbOperations.createRecord();
